@@ -131,7 +131,7 @@ var data = [
     state: "ca",
     country: "us",
     shape: "other",
-    durationMinutes: "30 minuets",
+    durationMinutes: "30 minutes",
     comments: "Objects in sky over Antioch California 12:03AM January 1&#44  2010"
   },
   {
@@ -905,7 +905,7 @@ var data = [
     state: "wv",
     country: "us",
     shape: "sphere",
-    durationMinutes: "7 minuts",
+    durationMinutes: "7 minutes",
     comments: "something followed my family and left a piece behind"
   },
   {
